@@ -15,6 +15,7 @@
   cursor: pointer;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 
   &:hover {
     background-color: white;
